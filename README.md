@@ -20,7 +20,6 @@ Data Analyst with 2.5+ years of hands-on experience in SQL-based data extraction
 🔹 **Graduate Research Analyst** – NEXIS Student Technology Lab (Jan 2025 - Present)  
 🔹 **Senior Data Analyst** – Clab AI (Jun 2024 - Dec 2024)  
 🔹 **Technology & Data Analyst** – Saint-Gobain (Aug 2022 - Jul 2023)  
-🔹 **Inventory Analyst** – Bhawani Electronics (Jul 2021 - Jun 2022)  
 🔹 **Marketing Analyst Internship** – Sahu Technologies (May 2019 - July 2019)
 
 ---
