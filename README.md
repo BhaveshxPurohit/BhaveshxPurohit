@@ -3,7 +3,7 @@
 </p>
 
 
-With 3 years of experience, 3 internships, and 6 master’s projects at Syracuse University, I specialize in Python, SQL, and cloud technologies. At CLAB AI, I developed AI-driven solutions, securing a $500K grant application for innovation. My expertise spans data management, machine learning, reinforcement learning, and visualization, with a passion for AI-driven automation and strategic decision-making to create impactful solutions. 
+Data Analyst with 2.5+ years of hands-on experience in SQL-based data extraction, digital analytics, and performance dashboardingacross healthcare, education, and telecom domains. Proven ability to derive actionable insights from complex datasets, develop metrics tracking systems, and support cross-functional teams with data-driven decision-making. Adept at tools including Power BI, Tableau, and Google Analytics, with a strong foundation in Python and statistical analysis. Passionate about enabling business optimization through intelligent reporting and impactful storytelling.
 
 ---
 
