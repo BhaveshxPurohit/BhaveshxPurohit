@@ -3,7 +3,7 @@
 </p>
 
 
-Data Analyst with 2.5+ years of hands-on experience in SQL-based data extraction, digital analytics, and performance dashboardingacross healthcare, education, and telecom domains. Proven ability to derive actionable insights from complex datasets, develop metrics tracking systems, and support cross-functional teams with data-driven decision-making. Adept at tools including Power BI, Tableau, and Google Analytics, with a strong foundation in Python and statistical analysis. Passionate about enabling business optimization through intelligent reporting and impactful storytelling.
+Data Analyst with 2.5+ years of hands-on experience in SQL-based data extraction, digital analytics, and performance dashboarding across healthcare, education, and telecom domains. Proven ability to derive actionable insights from complex datasets, develop metrics tracking systems, and support cross-functional teams with data-driven decision-making. Adept at tools including Power BI, Tableau, and Google Analytics, with a strong foundation in Python and statistical analysis. Passionate about enabling business optimization through intelligent reporting and impactful storytelling.
 
 ---
 
