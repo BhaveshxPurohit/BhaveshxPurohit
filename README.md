@@ -1,77 +1,90 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=24&duration=2000&color=F75C7E&center=true&vCenter=true&width=700&height=60&lines=Hey+There%2C+I'm+Bhavesh!;Passionate+about+Data%2C+AI+%26+ML;Turning+Raw+Data+into+Smart+Decisions;Building+AI-Powered+Solutions;Making+Numbers+Tell+Stories!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Bhavesh+Purohit!;Data+%26+BI+Analyst+with+4+Years+Experience;Transforming+Data+into+Decisions+That+Scale;Building+ETL+Pipelines+%7C+Powering+Dashboards;Telling+Stories+Through+Data+%F0%9F%93%88" />
 </p>
-
-
-Data Analyst with 2.5+ years of hands-on experience in SQL-based data extraction, digital analytics, and performance dashboarding across healthcare, education, and telecom domains. Proven ability to derive actionable insights from complex datasets, develop metrics tracking systems, and support cross-functional teams with data-driven decision-making. Adept at tools including Power BI, Tableau, and Google Analytics, with a strong foundation in Python and statistical analysis. Passionate about enabling business optimization through intelligent reporting and impactful storytelling.
 
 ---
 
-## 🎓 Education  
+## 👋 About Me
 
-📍 **Syracuse University, New York, USA**  
-🎓 **Master’s in Information Systems** | *[2023 - 2025]*  
-🔹 Focus Areas: **Data Science, AI, Cloud Computing**  
+I'm a Data & Business Intelligence Analyst with **4 years of experience** delivering insights, automating workflows, and building scalable analytics solutions across insurance, automotive, and healthcare domains. I specialize in **SQL, Python, Snowflake, Power BI**, and cloud-based data engineering with a strong foundation in statistical modeling and BI automation. I thrive at the intersection of data storytelling and process efficiency.
 
 ---
 
-## 📍 Career Timeline  
+## 🎓 Education
 
-🔹 **Graduate Research Analyst** – NEXIS Student Technology Lab (Jan 2025 - Present)  
-🔹 **Senior Data Analyst** – Clab AI (Jun 2024 - Dec 2024)  
-🔹 **Technology & Data Analyst** – Saint-Gobain (Aug 2022 - Jul 2023) 
-🔹 **Business Operations Analyst** – Bhawani Electronics (Jul 2020 - Jun 2022) 
-🔹 **Marketing Analyst Internship** – Sahu Technologies (May 2019 - July 2019)
+**📍 Syracuse University – NY, USA**  
+🎓 Master of Science in Information Systems | *Sep 2023 – May 2025*  
+📊 GPA: 3.67 / 4.0  
+Focus: Data Science • AI • Cloud Computing  
+
+**📍 University of Mumbai – India**  
+🎓 Bachelor of Engineering in Electronics & Communication | *Sep 2018 – May 2023*  
+📊 GPA: 3.54 / 4.0  
 
 ---
 
-## 🛠 Tech Stack  
+## 💼 Professional Experience
 
-### **📌 Languages & Databases**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBT-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
-</p>
+### 🏢 Allstate Insurance Company | *Business Intelligence Analyst*  
+*New York, USA | Jun 2024 – May 2025*  
+- Delivered 30+ insights via Power BI (DAX) dashboards using SQL CTEs and window functions  
+- Crafted complex queries on PostgreSQL for claims, policy, and customer analysis  
+- Built PySpark + dbt pipelines, reducing data processing time from 4 hours to 2.2 hours  
+- Investigated a $4.2M claims overrun using SQL + Python (pandas, seaborn)  
+- Ingested data from 6 external APIs into Snowflake, improving data quality and automation  
+- Managed Jira sprint boards and deployed analytics workflows using Azure DevOps  
 
-### **📊 BI & Visualization Tools**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Analytics-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20QuickSight-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Data%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-</p>
+### 🏢 KPIT Technologies | *Business Data Analyst*  
+*Mumbai, India | Jul 2020 – Jun 2023*  
+- Wrote 60+ SQL queries across Snowflake and SQL Server to extract KPIs for auto clients  
+- Processed 50M+ records using Azure Databricks and Python, reducing reporting time by 35%  
+- Designed 36+ Looker dashboards for SLA tracking and defect analysis  
+- Performed 12+ A/B tests in SAS to evaluate process changes and improve efficiency  
+- Built automated ETL workflows using Informatica and SSIS, saving 30+ hours monthly  
+- Created ODBC-connected Excel reports and documented Power Automate flows in Confluence  
+- Led 20+ Agile sprints, turning business needs into scalable data solutions  
 
-### **⚙️ Frameworks & Libraries**  
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-FF7043?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFDE57?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
+---
 
-### **🔧 Other Tools**  
-<p align="left">
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+## 🧠 Key Projects
 
+### [📊 Cloud-Based ELT for Stock Data](https://github.com/BhaveshxPurohit/Cloud-Based-ELT-for-Stock-Data-Management-using-Python)  
+Built an ELT pipeline with Azure Functions, Alteryx, and Power BI to automate and visualize financial data across Fortune 500 firms.
 
+### [🎧 NLP-Driven Insights on Spotify Usage](https://github.com/BhaveshxPurohit/NLP-Driven-Insights-into-Spotify-Usage)  
+Analyzed lyrics of 5K songs using NLP + PCA to uncover mood and genre patterns; boosted playlist metrics by 4.4%.
+
+### [🌇 Cooling Urban Heat Islands – EY AI Challenge](https://github.com/BhaveshxPurohit/Cooling-Urban-Heat-Islands)  
+Predicted UHI zones with 79% R² using GeoPandas, TensorFlow, and XGBoost on 11K+ geospatial points.
+
+### [🏥 Optimizing ICU Management with Snowflake DWH](https://github.com/BhaveshxPurohit/Optimizing-ICU-Management-with-Data-Warehousing)  
+Built a HIPAA-compliant Snowflake data warehouse and Power BI dashboards to track ICU mortality, medication use, and occupancy.
+
+---
+
+## ⚙️ Tech Stack
+
+### 📊 BI & Reporting  
+Power BI • Tableau • Looker Studio • Microsoft Excel • Adobe Analytics • Alteryx • SAS  
+
+### 🧪 Data & Modeling  
+Python • R • SQL • DAX • PySpark • Scikit-learn • TensorFlow • XGBoost • NLP • A/B Testing  
+
+### 🔄 ETL & Automation  
+Snowflake • SQL Server • PostgreSQL • MySQL • Oracle • SSIS • Informatica • dbt • ODBC • Power Automate  
+
+### ☁️ Cloud & DevOps  
+Azure (Databricks, DevOps, Synapse) • AWS (S3, Glue, Lambda, SageMaker) • Git • Docker • Jira • Confluence  
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [bhaveshpurohiit@gmail.com](mailto:bhaveshpurohiit@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/purohitbhavesh](https://www.linkedin.com/in/purohitbhavesh)  
+- 💻 Portfolio: [bhaveshpurohit.com](https://www.bhaveshpurohit.com)  
+- 📂 GitHub: [github.com/BhaveshxPurohit](https://github.com/BhaveshxPurohit)
+
+---
+
+_"I turn raw data into business breakthroughs — one query at a time."_
