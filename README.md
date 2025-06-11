@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-I'm a Data & Business Intelligence Analyst with **3.5 years of experience** delivering insights, automating workflows, and building scalable analytics solutions across insurance, automotive, and healthcare domains. I specialize in **SQL, Python, Snowflake, Power BI**, and cloud-based data engineering with a strong foundation in statistical modeling and BI automation. I thrive at the intersection of data storytelling and process efficiency.
+I'm a Data & Business Intelligence Analyst with **3.5 years of experience** delivering insights, automating workflows, and building scalable analytics solutions across Edtech and automotive domains. I specialize in **SQL, Python, Snowflake, Power BI**, and cloud-based data engineering with a strong foundation in statistical modeling and BI automation. I thrive at the intersection of data storytelling and process efficiency.
 
 ---
 
