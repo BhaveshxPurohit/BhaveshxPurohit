@@ -1,80 +1,80 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Bhavesh+Purohit!;Data+%26+BI+Analyst+with+4+Years+Experience;Transforming+Data+into+Decisions+That+Scale;Building+ETL+Pipelines+%7C+Powering+Dashboards;Telling+Stories+Through+Data+%F0%9F%93%88" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Bhavesh+Purohit!;Data+%26+BI+Analyst+with+3.5+Years+Experience;From+Raw+Data+to+Real+Impact+%F0%9F%9A%80;Building+Pipelines+%7C+Powering+Dashboards;Simplifying+Data+for+Actionable+Outcomes" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm a Business Data Analyst with **3.5 years of experience** delivering insights, automating workflows, and building scalable analytics solutions across Edtech and automotive domains. I specialize in **SQL, Python, Snowflake, Power BI**, and cloud-based data engineering with a strong foundation in statistical modeling and BI automation. I thrive at the intersection of data storytelling and process efficiency.
+I'm a Data Analyst with **3.5+ years of experience** turning messy, large-scale datasets into actionable insights and scalable BI solutions. Skilled in **SQL, Python, Power BI, Spark**, and **cloud automation**, I focus on building data workflows that deliver clarity, efficiency, and results across EdTech and automotive domains.
 
 ---
 
 ## 🎓 Education
 
 **📍 Syracuse University – NY, USA**  
-🎓 Master of Science in Information Systems | *Sep 2023 – May 2025*  
+🎓 MS in Information Systems | *Sep 2023 – May 2025*  
 📊 GPA: 3.67 / 4.0  
-Focus: Data Science • AI • Cloud Computing  
+Focus: Data Science • Cloud Computing • AI  
 
 **📍 University of Mumbai – India**  
-🎓 Bachelor of Engineering in Electronics & Communication | *Sep 2018 – May 2023*  
+🎓 BE in Electronics & Communication | *Sep 2018 – May 2023*  
 📊 GPA: 3.54 / 4.0  
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Allstate Insurance Company | *Business Intelligence Analyst*  
-*New York, USA | Jun 2024 – May 2025*  
-- Delivered 30+ insights via Power BI (DAX) dashboards using SQL CTEs and window functions  
-- Crafted complex queries on PostgreSQL for claims, policy, and customer analysis  
-- Built PySpark + dbt pipelines, reducing data processing time from 4 hours to 2.2 hours  
-- Investigated a $4.2M claims overrun using SQL + Python (pandas, seaborn)  
-- Ingested data from 6 external APIs into Snowflake, improving data quality and automation  
-- Managed Jira sprint boards and deployed analytics workflows using Azure DevOps  
+### 🏢 CLAB AI | *Data Analyst*  
+*TN, USA | Jun 2024 – Dec 2024*  
+- Explored 1.5M+ U.S. university admission records to identify success drivers using R and Excel  
+- Built 20+ Power BI dashboards with DAX for engagement & outcome tracking across 90+ schools  
+- Automated AWS S3 to Neo4j ingestion using Apache Airflow, updating 150K+ graph nodes daily  
+- Created a centralized data catalog using Alteryx for 12+ datasets, accelerating analyst workflows  
+- Scaled Spark-based ETL pipelines to handle 10M+ records, boosting performance 3x  
+- Managed Jira boards and Azure DevOps pipelines to streamline sprint-based analytics delivery  
 
 ### 🏢 KPIT Technologies | *Business Data Analyst*  
 *Mumbai, India | Jul 2020 – Jun 2023*  
-- Wrote 60+ SQL queries across Snowflake and SQL Server to extract KPIs for auto clients  
-- Processed 50M+ records using Azure Databricks and Python, reducing reporting time by 35%  
-- Designed 36+ Looker dashboards for SLA tracking and defect analysis  
-- Performed 12+ A/B tests in SAS to evaluate process changes and improve efficiency  
-- Built automated ETL workflows using Informatica and SSIS, saving 30+ hours monthly  
-- Created ODBC-connected Excel reports and documented Power Automate flows in Confluence  
-- Led 20+ Agile sprints, turning business needs into scalable data solutions  
+- Wrote 60+ SQL queries across Snowflake & SQL Server to track KPIs for automotive clients  
+- Built Python + Databricks pipelines for 50M+ records, reducing reporting latency by 35%  
+- Delivered 36 Looker dashboards for SLA tracking and defect trend visualization  
+- Automated ODBC Excel reports, saving 10+ monthly hours through real-time database connections  
+- Conducted 12+ A/B tests using SAS to validate operational efficiency improvements  
+- Created ETL pipelines using Informatica & SSIS, saving over 30 hours of manual effort per week  
+- Led 20+ Agile sprints, translating business needs into scalable data products and dashboards  
 
 ---
 
 ## 🧠 Key Projects
 
-### [📊 Cloud-Based ELT for Stock Data](https://github.com/BhaveshxPurohit/Cloud-Based-ELT-for-Stock-Data-Management-using-Python)  
-Built an ELT pipeline with Azure Functions, Alteryx, and Power BI to automate and visualize financial data across Fortune 500 firms.
+### [📈 Cloud-Based ELT for Stock Data](https://github.com/BhaveshxPurohit/Cloud-Based-ELT-for-Stock-Data-Management-using-Python)  
+Automated financial statement ingestion using Azure Functions, Alteryx, and Synapse; visualized 10-year trends via Power BI.
 
-### [🎧 NLP-Driven Insights on Spotify Usage](https://github.com/BhaveshxPurohit/NLP-Driven-Insights-into-Spotify-Usage)  
-Analyzed lyrics of 5K songs using NLP + PCA to uncover mood and genre patterns; boosted playlist metrics by 4.4%.
+### [🎵 Spotify Usage Insights via NLP](https://github.com/BhaveshxPurohit/NLP-Driven-Insights-into-Spotify-Usage)  
+Analyzed 5K+ songs using Python NLP + PCA to reveal mood trends and enhance playlist design (↑ enjoyment by 4.4%).
 
-### [🌇 Cooling Urban Heat Islands – EY AI Challenge](https://github.com/BhaveshxPurohit/Cooling-Urban-Heat-Islands)  
-Predicted UHI zones with 79% R² using GeoPandas, TensorFlow, and XGBoost on 11K+ geospatial points.
+### [🌆 Cooling Urban Heat Islands – EY AI Challenge](https://github.com/BhaveshxPurohit/Cooling-Urban-Heat-Islands)  
+Predicted heat zones with 79% R² using TensorFlow, XGBoost, and geospatial feature engineering on 11K+ points.
 
-### [🏥 Optimizing ICU Management with Snowflake DWH](https://github.com/BhaveshxPurohit/Optimizing-ICU-Management-with-Data-Warehousing)  
-Built a HIPAA-compliant Snowflake data warehouse and Power BI dashboards to track ICU mortality, medication use, and occupancy.
+### [🏥 ICU Optimization with Snowflake DWH](https://github.com/BhaveshxPurohit/Optimizing-ICU-Management-with-Data-Warehousing)  
+Built a Snowflake data warehouse and predictive Python models to reduce readmission risk and optimize ICU capacity.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 📊 BI & Reporting  
-Power BI • Tableau • Looker Studio • Microsoft Excel • Adobe Analytics • Alteryx • SAS  
+### 📊 BI & Analytics  
+Power BI • Tableau • Looker Studio • Alteryx • SAS • Excel  
 
-### 🧪 Data & Modeling  
-Python • R • SQL • DAX • PySpark • Scikit-learn • TensorFlow • XGBoost • NLP • A/B Testing  
+### 🛠️ Data & Modeling  
+Python • R • SQL • DAX • Spark • NLP • Scikit-learn • TensorFlow • XGBoost  
 
-### 🔄 ETL & Automation  
-Snowflake • SQL Server • PostgreSQL • MySQL • Oracle • SSIS • Informatica • dbt • ODBC • Power Automate  
+### 🔄 ETL & Workflow Automation  
+Snowflake • SQL Server • PostgreSQL • Oracle • Neo4j • Apache Airflow • SSIS • Informatica  
 
 ### ☁️ Cloud & DevOps  
-Azure (Databricks, DevOps, Synapse) • AWS (S3, Glue, Lambda, SageMaker) • Git • Docker • Jira • Confluence  
+Azure (Databricks, DevOps) • AWS (EC2, Lambda, S3, Redshift, Glue, SageMaker) • Git • Jira • Confluence  
 
 ---
 
@@ -87,4 +87,4 @@ Azure (Databricks, DevOps, Synapse) • AWS (S3, Glue, Lambda, SageMaker) • Gi
 
 ---
 
-_"I turn raw data into business breakthroughs — one query at a time."_
+_"I turn raw data into reliable decisions — with pipelines, dashboards, and a lot of SQL."_  
