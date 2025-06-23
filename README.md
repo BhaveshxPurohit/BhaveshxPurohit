@@ -6,9 +6,9 @@
 
 ## 👋 About Me
 
-I'm a Data & BI Analyst with **4.5+ years of experience** designing analytics solutions that scale across industries—finance, edtech, automotive, and retail. I specialize in **ETL pipeline design**, **dashboard development**, and **cloud automation** using tools like **SQL, Python, Power BI, Snowflake, Alteryx**, and **dbt**.
+I'm a Data & BI Analyst with **4.5+ years of experience** designing analytics solutions that scale across industries like finance, edtech, automotive, and retail. I specialize in **ETL pipeline design**, **dashboard development**, and **cloud automation** using tools like **SQL, Python, Power BI, Snowflake, Alteryx**, and **dbt**.
 
-At **PNC**, I worked with PySpark, Power BI, and Snowflake to optimize credit risk reporting—contributing to $2M in savings. At **CLAB AI**, I engineered real-time dashboards and student segmentation workflows, enabling retention insights across 10K+ learners. I'm also passionate about open-source ML, with projects ranging from ICU readmission prediction to urban heat island modeling.
+At **PNC**, I worked with PySpark, Power BI, and Snowflake to optimize credit risk reporting, contributing to $2M in savings. At **CLAB AI**, I engineered real-time dashboards and student segmentation workflows, enabling retention insights across 10K+ learners. I'm also passionate about open-source ML, with projects ranging from ICU readmission prediction to urban heat island modeling.
 
 ---
 
