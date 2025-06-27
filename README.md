@@ -15,18 +15,6 @@ Hi, I’m Bhavesh, a data and BI analyst with 4.5+ years of industry and academi
 
 ---
 
-## 🎓 Education
-
-**📍 Syracuse University – NY, USA**  
-🎓 MS in Information Systems | *Sep 2023 – May 2025*  
-📊 GPA: 3.67 / 4.0  
-
-**📍 University of Mumbai – India**  
-🎓 BE in Electronics & Communication | *Aug 2018 – May 2022*  
-📊 GPA: 3.54 / 4.0  
-
----
-
 ## 💼 Experience Snapshot
 
 ### 🎓 CLAB AI | *Data Analyst*  
