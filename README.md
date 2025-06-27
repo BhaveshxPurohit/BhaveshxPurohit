@@ -6,9 +6,12 @@
 
 ## 👋 About Me
 
-I'm a Data & BI Analyst with **4.5+ years of experience** designing analytics solutions that scale across industries like finance, edtech, automotive, and retail. I specialize in **ETL pipeline design**, **dashboard development**, and **cloud automation** using tools like **SQL, Python, Power BI, Snowflake, Alteryx**, and **dbt**.
+Hi, I’m Bhavesh, a data and BI analyst with 4.5+ years of experience teams convert large datasets into clear, actionable insights. I specialize in SQL, Python, Power BI, Snowflake, and Excel, and I've built scalable analytics solutions that saved $2M+ in costs and improved operational decision-making.
 
-At **PNC**, I worked with PySpark, Power BI, and Snowflake to optimize credit risk reporting, contributing to $2M in savings. At **CLAB AI**, I engineered real-time dashboards and student segmentation workflows, enabling retention insights across 10K+ learners. I'm also passionate about open-source ML, with projects ranging from ICU readmission prediction to urban heat island modeling.
+🚀 I’m passionate about building data pipelines and dashboards that drive growth, especially in mission-driven companies reshaping finance, education, or consumer tech. I’m now looking to join a team where I can contribute my technical and storytelling skills to solve complex analytical challenges.
+
+⚙️ Tech Stack: SQL, Python, Power BI, Excel, Snowflake, dbt, PySpark, AWS, Azure
+📍Open to remote or hybrid roles across the U.S.
 
 ---
 
