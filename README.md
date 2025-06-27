@@ -6,11 +6,11 @@
 
 ## 👋 About Me
 
-Hi, I’m Bhavesh, a data and BI analyst with 4.5+ years of experience teams convert large datasets into clear, actionable insights. I specialize in SQL, Python, Power BI, Snowflake, and Excel, and I've built scalable analytics solutions that saved $2M+ in costs and improved operational decision-making.
+Hi, I’m Bhavesh, a data and BI analyst with 4.5+ years of industry and academic experience transforming raw data into insights. I specialize in Python, SQL, Power BI, Snowflake, and Excel, and I’ve built analytics solutions that optimized operations and influenced multimillion-dollar decisions.
 
-🚀 I’m passionate about building data pipelines and dashboards that drive growth, especially in mission-driven companies reshaping finance, education, or consumer tech. I’m now looking to join a team where I can contribute my technical and storytelling skills to solve complex analytical challenges.
+🚀 I’m passionate about simplifying complex datasets and enabling smarter business moves, especially within fintech, edtech, and retail domains. I’m looking for a full-time data analyst or analytics engineer role where I can contribute my technical expertise and problem-solving mindset.
 
-⚙️ Tech Stack: SQL, Python, Power BI, Excel, Snowflake, dbt, PySpark, AWS, Azure
+⚙️ Tech Stack: Python, SQL, Power BI, Excel, Snowflake, R, dbt, Apache Airflow, Alteryx  
 📍Open to remote or hybrid roles across the U.S.
 
 ---
@@ -22,70 +22,63 @@ Hi, I’m Bhavesh, a data and BI analyst with 4.5+ years of experience teams con
 📊 GPA: 3.67 / 4.0  
 
 **📍 University of Mumbai – India**  
-🎓 BE in Electronics & Communication | *Sep 2018 – May 2023*  
+🎓 BE in Electronics & Communication | *Aug 2018 – May 2022*  
 📊 GPA: 3.54 / 4.0  
 
 ---
 
 ## 💼 Experience Snapshot
 
-### 🏦 PNC Financial Services | *Financial Data Analyst*  
-*PA, USA | Jan 2025 – Jun 2025*  
-- Processed 10M+ records using PySpark on Hadoop, reducing aggregation time for credit scoring workflows  
-- Built 12 Power BI dashboards (with DAX + RLS) uncovering delinquency spikes in subprime portfolios  
-- Constructed dbt models in Snowflake using Jinja, cutting data refresh time by 35%  
-- Designed credit loss models in Excel, avoiding ~$1.2M in over-provisioning  
+### 🎓 CLAB AI | *Data Analyst*  
+*Nashville, TN | Jun 2024 – Dec 2024*  
+- Designed ETL pipelines using SQL, Python, and Airflow to process 1.5M+ education records into Neo4j  
+- Built automated ingestion pipelines using AWS + Alteryx, reducing prep time by 40%  
+- Conducted UAT with stakeholders, reducing post-deployment issues by 25%  
+- Developed graph-based recommendation engine that improved student pathing accuracy by 60%  
 
-### 🎓 CLAB AI | *Data Analytics Engineer*  
-*TN, USA | Jun 2024 – Dec 2024*  
-- Automated ingestion of 2M+ daily records using AWS Lambda + Redshift  
-- Built 14 Cognos dashboards; identified 2.3× higher inactivity in mobile users  
-- Conducted A/B tests using Python; improved mobile design engagement by 20%  
+### 🏭 Saint-Gobain | *System Engineer*  
+*Mumbai, India | Aug 2022 – Jul 2023*  
+- Automated mobile app deployment via CI/CD (Docker, PowerShell), cutting release time by 50%  
+- Created Power BI dashboards to monitor 80K+ devices, improving reporting time by 60%  
+- Identified recurring ServiceNow issues, halving resolution time from 8 to 4 hours  
 
-### 🚗 KPIT Technologies | *Data Analyst*  
-*India | Sep 2021 – May 2023*  
-- Analyzed 1M+ failure logs in SAP HANA; reduced RCA time by 1.2 days  
-- Delivered 20+ SAP BO dashboards to detect recurring sensor issues  
-- Applied ANOVA/t-tests in R to validate redesigns; cut warranty claims by 15%  
-
-### 🛍️ Bhawani Electronics | *Operations Analyst*  
-*India | Jan 2020 – May 2021*  
-- Consolidated POS data across 20+ branches; enabled auto-reorder for 30K+ SKUs  
-- Scaled SKU tracker that supported promotions clearing 1.2K+ aging items  
-- Conducted dashboard training for 25 staff; automated inventory reports with VBA  
+### 🛍️ Bhawani Electronics | *Business Operations Analyst*  
+*Thane, India | Jul 2020 – Jun 2022*  
+- Built demand-forecast models in Excel that reduced stockouts by 30% and raised revenue by ₹4M  
+- Automated Power BI reports to monitor KPIs for 20+ stores; enabled SKU clearance of 1.2K+ items  
+- Performed churn analysis in Python, preserving ₹1M in customer LTV  
 
 ---
 
 ## 🚀 Key Projects
 
-- [🧠 Cooling Urban Heat Islands – EY AI Challenge](https://github.com/BhaveshxPurohit/Cooling-Urban-Heat-Islands)  
-- [📊 Cloud-Based ELT for Stock Data](https://github.com/BhaveshxPurohit/Cloud-Based-ELT-for-Stock-Data-Management-using-Python)  
-- [🏥 Optimizing ICU Management (Snowflake + ML)](https://github.com/BhaveshxPurohit/Optimizing-ICU-Management-with-Data-Warehousing)  
+- [🏥 ICU Optimization (Power BI + Snowflake)](https://github.com/BhaveshxPurohit/Optimizing-ICU-Management-with-Data-Warehousing) – Real-time STAR schema ETL with 600K+ rows  
+- [📈 Stock Data ELT Pipeline (Python + Cloud)](https://github.com/BhaveshxPurohit/Cloud-Based-ELT-for-Stock-Data-Management-using-Python) – Built pipeline + dashboards  
+- [🌇 Urban Heat AI Challenge (EY)](https://github.com/BhaveshxPurohit/Cooling-Urban-Heat-Islands) – Machine learning & geospatial modeling  
 
 ---
 
 ## ⚙️ Tech Stack
 
 ### 🧩 Core Skills  
-Python • SQL • R • DAX • SAS • STATA • Spark  
-Power BI • Tableau • Cognos • Excel • Alteryx • dbt  
+Python • SQL • R • SAS • STATA • dbt • DAX • VBA • Excel • Power BI • Tableau • Looker Studio • Qlik  
 
-### 🛠️ ETL & Cloud  
-Snowflake • SQL Server • Redshift • Azure Synapse • Databricks  
-AWS (Lambda, EC2, S3, Glue) • Azure (DevOps, Data Factory) • SSIS • Informatica  
+### 🔄 ETL & Cloud  
+Snowflake • MySQL • SQL Server • Redshift • Azure Synapse • Databricks  
+AWS (Lambda, S3, EC2, Glue) • Azure (Data Factory, DevOps) • SSIS • Docker • Airflow • Kubernetes • Alteryx  
 
-### 🗂️ Project Management  
-Jira • Confluence • Git • Azure DevOps  
+### 📂 Project & DevOps Tools  
+Git • Jira • Trello • Confluence • Postman • ServiceNow  
 
 ---
 
 ## 📬 Contact
 
-📧 Email: [bhaveshpurohiit@gmail.com](mailto:bhaveshpurohiit@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/purohitbhavesh](https://www.linkedin.com/in/purohitbhavesh)  
+📧 Email: [bppurohi@gmail.com](mailto:bppurohi@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/bhavesh-purohit-56354b173](https://www.linkedin.com/in/bhavesh-purohit-56354b173)  
 🌐 Portfolio: [bhaveshpurohit.com](https://www.bhaveshpurohit.com)  
 💻 GitHub: [github.com/BhaveshxPurohit](https://github.com/BhaveshxPurohit)
 
 ---
 
-_"I turn raw data into reliable decisions — with pipelines, dashboards, and a lot of SQL."_  
+_"From raw CSVs to executive-ready dashboards – I bridge the gap between data and decisions."_  
