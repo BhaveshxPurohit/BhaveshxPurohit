@@ -64,7 +64,6 @@ Git • Jira • Trello • Confluence • Postman • ServiceNow
 
 📧 Email: [bppurohi@gmail.com](mailto:bppurohi@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/bhavesh-purohit-56354b173](https://www.linkedin.com/in/bhavesh-purohit-56354b173)  
-🌐 Portfolio: [bhaveshpurohit.com](https://www.bhaveshpurohit.com)  
 💻 GitHub: [github.com/BhaveshxPurohit](https://github.com/BhaveshxPurohit)
 
 ---
