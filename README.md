@@ -1,71 +1,85 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Bhavesh+Purohit!;Data+%26+BI+Analyst+with+4.5+Years+Experience;From+Raw+Data+to+Real+Impact+%F0%9F%9A%80;Building+Pipelines+%7C+Powering+Dashboards;Simplifying+Data+for+Actionable+Outcomes" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Bhavesh+Purohit!;Data+%26+BI+Analyst+with+4.5+Years+Experience;From+Raw+Data+to+Real+Impact+%F0%9F%9A%80;Turning+10M+Records+into+$2M+Savings;Automating+Analytics+%7C+Scaling+Insights" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-Hi, I’m Bhavesh, a data and BI analyst with 4.5+ years of industry and academic experience transforming raw data into insights. I specialize in Python, SQL, Power BI, Snowflake, and Excel, and I’ve built analytics solutions that optimized operations and influenced multimillion-dollar decisions.
+Hi, I’m Bhavesh – a data and BI analyst with 4.5+ years of industry and academic experience driving insights and automation across fintech, edtech, automotive, and retail. From building ML models and ETL workflows to designing dashboards and data warehouses, I help transform messy data into measurable results.
 
-🚀 I’m passionate about simplifying complex datasets and enabling smarter business moves, especially within fintech, edtech, and retail domains. I’m looking for a full-time data analyst or analytics engineer role where I can contribute my technical expertise and problem-solving mindset.
+🚀 I’m passionate about creating scalable analytics solutions that enable smarter decisions. Most recently, I helped PNC save $2M in provisioning costs and CLAB AI secure a $500K research grant with data-driven storytelling.
 
-⚙️ Tech Stack: Python, SQL, Power BI, Excel, Snowflake, R, dbt, Apache Airflow, Alteryx  
-📍Open to remote or hybrid roles across the U.S.
+⚙️ **Core Tech Stack:** SQL, Python, Power BI, Snowflake, dbt, Excel, AWS, Azure  
+📍Actively seeking full-time Data Analyst or Analytics Engineer roles – open to remote/hybrid across the U.S.
 
 ---
 
 ## 💼 Experience Snapshot
 
-### 🎓 CLAB AI | *Data Analyst*  
-*Nashville, TN | Jun 2024 – Dec 2024*  
-- Designed ETL pipelines using SQL, Python, and Airflow to process 1.5M+ education records into Neo4j  
-- Built automated ingestion pipelines using AWS + Alteryx, reducing prep time by 40%  
-- Conducted UAT with stakeholders, reducing post-deployment issues by 25%  
-- Developed graph-based recommendation engine that improved student pathing accuracy by 60%  
+### 💳 PNC Financial Services | *Financial Data Analyst*  
+*Jan 2025 – Jun 2025, PA, USA*  
+- Processed 10M+ loan records using PySpark on Hadoop; cut aggregation time by 30 mins  
+- Built 12 Power BI dashboards with DAX + RLS, flagging delinquencies in subprime portfolios  
+- Reduced over-provisioning by ~$1.2M using Excel roll rate & vintage models  
+- Developed modular dbt models in Snowflake with Jinja templates for 35% faster refresh  
+- Documented 12+ workflows, logic, and assumptions for audit in Azure DevOps Wiki  
 
-### 🏭 Saint-Gobain | *System Engineer*  
-*Mumbai, India | Aug 2022 – Jul 2023*  
-- Automated mobile app deployment via CI/CD (Docker, PowerShell), cutting release time by 50%  
-- Created Power BI dashboards to monitor 80K+ devices, improving reporting time by 60%  
-- Identified recurring ServiceNow issues, halving resolution time from 8 to 4 hours  
+### 🧑‍🎓 CLAB AI | *Data Analytics Engineer*  
+*Jun 2024 – Dec 2024, TN, USA*  
+- Built AWS Lambda pipelines to ingest 2M+ daily rows into Redshift  
+- Automated 500K+ log prep in Alteryx, saving 3 hours/week  
+- Delivered 14 Cognos dashboards to track engagement, uncovering mobile user drop-offs  
+- A/B tested UI variants using SciPy & StatsModels; improved mobile engagement by 20%  
 
-### 🛍️ Bhawani Electronics | *Business Operations Analyst*  
-*Thane, India | Jul 2020 – Jun 2022*  
-- Built demand-forecast models in Excel that reduced stockouts by 30% and raised revenue by ₹4M  
-- Automated Power BI reports to monitor KPIs for 20+ stores; enabled SKU clearance of 1.2K+ items  
-- Performed churn analysis in Python, preserving ₹1M in customer LTV  
+### 🔧 KPIT Technologies | *Data Analyst*  
+*Sep 2021 – May 2023, Mumbai, India*  
+- Analyzed 1M+ failure logs via SQL on SAP HANA; reduced RCA by 1.2 days  
+- Built 20 dashboards in SAP BO to monitor batch-wise sensor defects  
+- Automated SSIS pipelines with Lookup/Split tasks; improved data quality by 12%  
+- Used ANOVA and t-tests in RStudio to validate component redesigns  
+
+### 🛍️ Bhawani Electronics | *Operations Data Analyst*  
+*Jan 2020 – May 2021, Thane, India*  
+- Built Excel reorder models to reduce stockouts by ~50% for 30K+ SKUs  
+- Cleared 1.2K+ aging items via Excel/VBA SKU tracker  
+- Led dashboard training for 25+ retail staff across 20 branches  
 
 ---
 
 ## 🚀 Key Projects
 
-- [🏥 ICU Optimization (Power BI + Snowflake)](https://github.com/BhaveshxPurohit/Optimizing-ICU-Management-with-Data-Warehousing) – Real-time STAR schema ETL with 600K+ rows  
-- [📈 Stock Data ELT Pipeline (Python + Cloud)](https://github.com/BhaveshxPurohit/Cloud-Based-ELT-for-Stock-Data-Management-using-Python) – Built pipeline + dashboards  
-- [🌇 Urban Heat AI Challenge (EY)](https://github.com/BhaveshxPurohit/Cooling-Urban-Heat-Islands) – Machine learning & geospatial modeling  
+- [🏥 ICU Optimization with Snowflake + Power BI](https://github.com/BhaveshxPurohit/Optimizing-ICU-Management-with-Data-Warehousing) – ML readmission model with 92% R² on 150K+ records  
+- [📈 Stock Data ELT Pipeline](https://github.com/BhaveshxPurohit/Cloud-Based-ELT-for-Stock-Data-Management-using-Python) – Azure + Alteryx + Power BI integration for 10Y trends  
+- [🌇 Urban Heat AI Challenge (EY)](https://github.com/BhaveshxPurohit/Cooling-Urban-Heat-Islands) – 79% R² model using TensorFlow & geospatial data  
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🧩 Core Skills  
-Python • SQL • R • SAS • STATA • dbt • DAX • VBA • Excel • Power BI • Tableau • Looker Studio • Qlik  
+### 🧠 Programming & Analytics  
+Python • SQL • R • SAS • STATA • DAX • VBA  
 
-### 🔄 ETL & Cloud  
-Snowflake • MySQL • SQL Server • Redshift • Azure Synapse • Databricks  
-AWS (Lambda, S3, EC2, Glue) • Azure (Data Factory, DevOps) • SSIS • Docker • Airflow • Kubernetes • Alteryx  
+### 📊 BI & Visualization  
+Power BI • Tableau • Looker Studio • Excel • Cognos • SAP BO • SSRS  
 
-### 📂 Project & DevOps Tools  
-Git • Jira • Trello • Confluence • Postman • ServiceNow  
+### 🔄 ETL & Data Engineering  
+dbt • Alteryx • SSIS • Informatica • API Integration • Airflow  
+Snowflake • Redshift • Azure Synapse • Databricks • Apache Spark  
+
+### ☁️ Cloud & DevOps  
+AWS (Lambda, EC2, S3, Glue) • Azure (ADF, DevOps) • Docker  
+Git • Jira • Confluence • ServiceNow  
 
 ---
 
 ## 📬 Contact
 
-📧 Email: [bppurohi@gmail.com](mailto:bppurohi@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/bhavesh-purohit-56354b173](https://www.linkedin.com/in/bhavesh-purohit-56354b173)  
+📧 Email: [bhaveshpurohiit@gmail.com](mailto:bhaveshpurohiit@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/purohitbhavesh](https://www.linkedin.com/in/purohitbhavesh)  
+🌐 Portfolio: [bhaveshpurohit.com](https://www.bhaveshpurohit.com)  
 💻 GitHub: [github.com/BhaveshxPurohit](https://github.com/BhaveshxPurohit)
 
 ---
 
-_"From raw CSVs to executive-ready dashboards – I bridge the gap between data and decisions."_  
+_"From raw CSVs to compliance dashboards, I translate data into decisions that move the needle."_  
