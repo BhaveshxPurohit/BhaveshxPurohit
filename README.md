@@ -33,7 +33,7 @@ Hi, I’m Bhavesh – a data and BI analyst with 4.5+ years of industry and acad
 - A/B tested UI variants using SciPy & StatsModels; improved mobile engagement by 20%  
 
 ### 🔧 KPIT Technologies | *Data Analyst*  
-*Sep 2021 – May 2023, Mumbai, India*  
+*Jun 2021 – May 2023, Mumbai, India*  
 - Analyzed 1M+ failure logs via SQL on SAP HANA; reduced RCA by 1.2 days  
 - Built 20 dashboards in SAP BO to monitor batch-wise sensor defects  
 - Automated SSIS pipelines with Lookup/Split tasks; improved data quality by 12%  
