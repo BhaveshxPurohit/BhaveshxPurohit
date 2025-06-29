@@ -17,33 +17,17 @@ Hi, I’m Bhavesh – a data and BI analyst with 4.5+ years of industry and acad
 
 ## 💼 Experience Snapshot
 
-### 💳 PNC Financial Services | *Financial Data Analyst*  
+### 💳 PNC Financial Services | *Data Analyst*  
 *Jan 2025 – Jun 2025, PA, USA*  
-- Processed 10M+ loan records using PySpark on Hadoop; cut aggregation time by 30 mins  
-- Built 12 Power BI dashboards with DAX + RLS, flagging delinquencies in subprime portfolios  
-- Reduced over-provisioning by ~$1.2M using Excel roll rate & vintage models  
-- Developed modular dbt models in Snowflake with Jinja templates for 35% faster refresh  
-- Documented 12+ workflows, logic, and assumptions for audit in Azure DevOps Wiki  
 
 ### 🧑‍🎓 CLAB AI | *Data Analytics Engineer*  
-*Jun 2024 – Dec 2024, TN, USA*  
-- Built AWS Lambda pipelines to ingest 2M+ daily rows into Redshift  
-- Automated 500K+ log prep in Alteryx, saving 3 hours/week  
-- Delivered 14 Cognos dashboards to track engagement, uncovering mobile user drop-offs  
-- A/B tested UI variants using SciPy & StatsModels; improved mobile engagement by 20%  
+*Jun 2024 – Dec 2024, TN, USA*    
 
 ### 🔧 KPIT Technologies | *Data Analyst*  
-*Jun 2021 – May 2023, Mumbai, India*  
-- Analyzed 1M+ failure logs via SQL on SAP HANA; reduced RCA by 1.2 days  
-- Built 20 dashboards in SAP BO to monitor batch-wise sensor defects  
-- Automated SSIS pipelines with Lookup/Split tasks; improved data quality by 12%  
-- Used ANOVA and t-tests in RStudio to validate component redesigns  
+*Sep 2020 – May 2023, Mumbai, India*  
 
-### 🛍️ Bhawani Electronics | *Operations Data Analyst*  
-*Jan 2020 – May 2021, Thane, India*  
-- Built Excel reorder models to reduce stockouts by ~50% for 30K+ SKUs  
-- Cleared 1.2K+ aging items via Excel/VBA SKU tracker  
-- Led dashboard training for 25+ retail staff across 20 branches  
+### 🔧 KPIT Technologies | *Data Analyst Intern*    
+*Jun 2020 – Aug 2020, Thane, India*  
 
 ---
 
