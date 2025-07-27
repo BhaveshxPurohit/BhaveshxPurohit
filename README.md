@@ -10,56 +10,20 @@
 - [🌇 Urban Heat AI Challenge (EY)](https://github.com/BhaveshxPurohit/Cooling-Urban-Heat-Islands) – 79% R² model using TensorFlow & geospatial data  
 
 ---
-###CORE COMPETENCIES
-### Programming & ML Libraries  
-<span style="background:#3776AB;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Python</span>
-<span style="background:#276DC3;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">R</span>
-<span style="background:#4479A1;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SQL</span>
-<span style="background:#E67400;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SAS</span>
-<span style="background:#F2C811;color:black;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">DAX</span>
-<span style="background:#E25A1C;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">PySpark</span>
-<span style="background:#F7931E;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Scikit-learn</span>
-<span style="background:#150458;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Pandas</span>
-<span style="background:#013243;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">NumPy</span>
+### CORE COMPETENCIES
+🐍 Programming & ML: Python | R | SQL | SAS | DAX | PySpark | Scikit-learn | Pandas | NumPy
 
-### Data Storage & Databases  
-<span style="background:#CC2927;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SQL Server</span>
-<span style="background:#4479A1;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">MySQL</span>
-<span style="background:#0FAAFF;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SAP HANA</span>
-<span style="background:#1F2937;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Snowflake</span>
-<span style="background:#00C07F;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Neo4j</span>
+🗄️ Databases: SQL Server | MySQL | SAP HANA | Snowflake | Neo4j (Graph DB)
 
-### Cloud Platforms & Services  
-<span style="background:#FF9900;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">AWS</span>
-<span style="background:#0089D6;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Azure</span>
+☁️ Cloud & Services: AWS (S3, Redshift, EC2, Lambda, SageMaker) | Azure (Databricks, ML Pipelines)
 
-### Visualization & BI Tools  
-<span style="background:#F2C811;color:black;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Power BI</span>
-<span style="background:#E97627;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Tableau</span>
-<span style="background:#4285F4;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Looker</span>
-<span style="background:#E67400;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SAS</span>
-<span style="background:#CC2927;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SSRS</span>
+📊 Visualization & BI: Power BI (Row-Level Security, Smart Narratives) | Tableau | Looker | SAS Visual Analytics | SSRS
 
-### ETL & Workflow Automation  
-<span style="background:#CC2927;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SSIS</span>
-<span style="background:#FF3F34;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Informatica</span>
-<span style="background:#F6931D;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Alteryx</span>
-<span style="background:#EA4C89;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">dbt</span>
-<span style="background:#017CEE;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Apache Airflow</span>
-<span style="background:#333333;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">API Automation</span>
+🔄 ETL & Automation: SSIS | Informatica PowerCenter | Alteryx | dbt | Apache Airflow | API Automation
 
-### Containerization & Version Control  
-<span style="background:#2496ED;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Docker</span>
-<span style="background:#326CE5;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Kubernetes</span>
-<span style="background:#F05032;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Git</span>
-<span style="background:#181717;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">GitHub</span>
+📦 Containers & VCS: Docker | Kubernetes | Git | GitHub
 
-### Emerging AI/ML Tools  
-<span style="background:#6C63FF;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">GPT-4</span>
-<span style="background:#412991;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">OpenAI</span>
-<span style="background:#00C07F;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Weaviate</span>
-<span style="background:#F2C811;color:black;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Power BI Copilot</span>
-
+🤖 AI/ML Tools: GPT-4 | Generative AI Frameworks | Vector DBs (Weaviate) | Power BI Copilot AI
 ---
 
 ## 📬 Contact
