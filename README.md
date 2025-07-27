@@ -17,9 +17,9 @@
 <img src="https://cdn.simpleicons.org/r" alt="R" height="24" /> , 
 <img src="https://cdn.simpleicons.org/mysql" alt="SQL" height="24" /> , 
 <img src="https://cdn.simpleicons.org/sas" alt="SAS" height="24" /> , 
-<img src="https://cdn.simpleicons.org/microsoftpowerbi" alt="DAX" height="24" /> , 
-<img src="https://cdn.simpleicons.org/apache" alt="PySpark" height="24" /> , 
-<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="24" /> , 
+<img src="https://cdn.simpleicons.org/microsoftpowerbi" alt="DAX/Power BI" height="24" /> , 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="PySpark" height="24" /> , 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="24" /> , 
 <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" height="24" /> , 
 <img src="https://numpy.org/images/logo.svg" alt="NumPy" height="24" />
 
@@ -47,7 +47,8 @@
 <img src="https://cdn.simpleicons.org/alteryx" alt="Alteryx" height="24" /> , 
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/DBT_logo.svg" alt="dbt" height="24" /> , 
 <img src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" height="24" /> , 
-<img src="https://cdn-icons-png.flaticon.com/512/919/919841.png" alt="API Automation" height="24" />
+<!-- Using a generic API icon as placeholder -->
+<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="API Automation" height="24" />
 
 ### Containerization & Version Control  
 <img src="https://cdn.simpleicons.org/docker" alt="Docker" height="24" /> , 
@@ -56,6 +57,7 @@
 <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="24" />
 
 ### Emerging AI/ML Tools  
+<!-- No official GPT-4 icon, using generic AI icon -->
 <img src="https://cdn-icons-png.flaticon.com/512/1183/1183824.png" alt="GPT-4" height="24" /> , 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OpenAI_Logo.svg" alt="OpenAI" height="24" /> , 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Weaviate_logo.png" alt="Weaviate" height="24" /> , 
