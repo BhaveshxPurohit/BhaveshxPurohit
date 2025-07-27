@@ -10,58 +10,55 @@
 - [🌇 Urban Heat AI Challenge (EY)](https://github.com/BhaveshxPurohit/Cooling-Urban-Heat-Islands) – 79% R² model using TensorFlow & geospatial data  
 
 ---
-
-## ⚙️ Tech Stack
+###CORE COMPETENCIES
 ### Programming & ML Libraries  
-<img src="https://cdn.simpleicons.org/python" alt="Python" height="24" /> , 
-<img src="https://cdn.simpleicons.org/r" alt="R" height="24" /> , 
-<img src="https://cdn.simpleicons.org/mysql" alt="SQL" height="24" /> , 
-<img src="https://cdn.simpleicons.org/sas" alt="SAS" height="24" /> , 
-<img src="https://cdn.simpleicons.org/microsoftpowerbi" alt="DAX/Power BI" height="24" /> , 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png" alt="PySpark" height="24" /> , 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" height="24" /> , 
-<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" height="24" /> , 
-<img src="https://numpy.org/images/logo.svg" alt="NumPy" height="24" />
+<span style="background:#3776AB;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Python</span>
+<span style="background:#276DC3;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">R</span>
+<span style="background:#4479A1;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SQL</span>
+<span style="background:#E67400;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SAS</span>
+<span style="background:#F2C811;color:black;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">DAX</span>
+<span style="background:#E25A1C;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">PySpark</span>
+<span style="background:#F7931E;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Scikit-learn</span>
+<span style="background:#150458;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Pandas</span>
+<span style="background:#013243;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">NumPy</span>
 
 ### Data Storage & Databases  
-<img src="https://cdn.simpleicons.org/microsoftsqlserver" alt="SQL Server" height="24" /> , 
-<img src="https://cdn.simpleicons.org/mysql" alt="MySQL" height="24" /> , 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png" alt="SAP HANA" height="24" /> , 
-<img src="https://cdn.simpleicons.org/snowflake" alt="Snowflake" height="24" /> , 
-<img src="https://neo4j.com/wp-content/themes/neo4j.com/assets/images/neo4j-logo.svg" alt="Neo4j" height="24" />
+<span style="background:#CC2927;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SQL Server</span>
+<span style="background:#4479A1;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">MySQL</span>
+<span style="background:#0FAAFF;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SAP HANA</span>
+<span style="background:#1F2937;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Snowflake</span>
+<span style="background:#00C07F;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Neo4j</span>
 
 ### Cloud Platforms & Services  
-<img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" height="24" /> , 
-<img src="https://cdn.simpleicons.org/microsoftazure" alt="Azure" height="24" />
+<span style="background:#FF9900;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">AWS</span>
+<span style="background:#0089D6;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Azure</span>
 
 ### Visualization & BI Tools  
-<img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" height="24" /> , 
-<img src="https://cdn.simpleicons.org/tableau" alt="Tableau" height="24" /> , 
-<img src="https://cdn.simpleicons.org/googlecloud" alt="Looker" height="24" /> , 
-<img src="https://cdn.simpleicons.org/sas" alt="SAS" height="24" /> , 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/SQL_Server_Reporting_Services_Logo.svg" alt="SSRS" height="24" />
+<span style="background:#F2C811;color:black;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Power BI</span>
+<span style="background:#E97627;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Tableau</span>
+<span style="background:#4285F4;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Looker</span>
+<span style="background:#E67400;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SAS</span>
+<span style="background:#CC2927;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SSRS</span>
 
 ### ETL & Workflow Automation  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SQL_Server_Integration_Services_logo.svg/1024px-SQL_Server_Integration_Services_logo.svg.png" alt="SSIS" height="24" /> , 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Informatica_Logo.svg/2560px-Informatica_Logo.svg.png" alt="Informatica" height="24" /> , 
-<img src="https://cdn.simpleicons.org/alteryx" alt="Alteryx" height="24" /> , 
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/DBT_logo.svg" alt="dbt" height="24" /> , 
-<img src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" height="24" /> , 
-<!-- Using a generic API icon as placeholder -->
-<img src="https://cdn-icons-png.flaticon.com/512/888/888879.png" alt="API Automation" height="24" />
+<span style="background:#CC2927;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">SSIS</span>
+<span style="background:#FF3F34;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Informatica</span>
+<span style="background:#F6931D;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Alteryx</span>
+<span style="background:#EA4C89;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">dbt</span>
+<span style="background:#017CEE;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Apache Airflow</span>
+<span style="background:#333333;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">API Automation</span>
 
 ### Containerization & Version Control  
-<img src="https://cdn.simpleicons.org/docker" alt="Docker" height="24" /> , 
-<img src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" height="24" /> , 
-<img src="https://cdn.simpleicons.org/git" alt="Git" height="24" /> , 
-<img src="https://cdn.simpleicons.org/github" alt="GitHub" height="24" />
+<span style="background:#2496ED;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Docker</span>
+<span style="background:#326CE5;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Kubernetes</span>
+<span style="background:#F05032;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Git</span>
+<span style="background:#181717;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">GitHub</span>
 
 ### Emerging AI/ML Tools  
-<!-- No official GPT-4 icon, using generic AI icon -->
-<img src="https://cdn-icons-png.flaticon.com/512/1183/1183824.png" alt="GPT-4" height="24" /> , 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OpenAI_Logo.svg" alt="OpenAI" height="24" /> , 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Weaviate_logo.png" alt="Weaviate" height="24" /> , 
-<img src="https://cdn.simpleicons.org/powerbi" alt="Power BI Copilot" height="24" />
+<span style="background:#6C63FF;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">GPT-4</span>
+<span style="background:#412991;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">OpenAI</span>
+<span style="background:#00C07F;color:white;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Weaviate</span>
+<span style="background:#F2C811;color:black;padding:4px 8px;margin:2px; border-radius:4px; font-size:14px; font-family:Arial, sans-serif;">Power BI Copilot</span>
 
 ---
 
