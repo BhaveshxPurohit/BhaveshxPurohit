@@ -24,6 +24,7 @@
 📦 Containers & VCS: Docker | Kubernetes | Git | GitHub
 
 🤖 AI/ML Tools: GPT-4 | Generative AI Frameworks | Vector DBs (Weaviate) | Power BI Copilot AI
+
 ---
 
 ## 📬 Contact
