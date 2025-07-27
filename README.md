@@ -12,48 +12,45 @@
 ---
 
 ## ⚙️ Tech Stack
+### Programming & ML Libraries:  
+![Python](https://cdn.simpleicons.org/python) ![R](https://cdn.simpleicons.org/r) ![SQL](https://cdn.simpleicons.org/mysql) ![SAS](https://cdn.simpleicons.org/sas) ![DAX](https://cdn.simpleicons.org/microsoftpowerbi) ![PySpark](https://cdn.simpleicons.org/apache) ![Scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png) ![Pandas](https://pandas.pydata.org/static/img/pandas_mark.svg) ![NumPy](https://numpy.org/images/logo.svg)
 
-Python         ██████████  Expert
-R              █████████   Advanced
-SQL            ██████████  Expert
-SAS            ████████    Intermediate
-DAX            █████████   Advanced
-PySpark        ███████     Working Knowledge
-Scikit-learn   ████████    Intermediate
-Pandas         ██████████  Expert
-NumPy          ██████████  Expert
+---
 
-SQL Server     █████████   Advanced
-MySQL          ████████    Intermediate
-SAP HANA       ███████     Working Knowledge
-Snowflake      ████████    Intermediate
-Neo4j          ██████      Basic
+### Data Storage & Databases:  
+![SQL Server](https://cdn.simpleicons.org/microsoftsqlserver) ![MySQL](https://cdn.simpleicons.org/mysql) ![SAP HANA](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png) ![Snowflake](https://cdn.simpleicons.org/snowflake) ![Neo4j](https://neo4j.com/wp-content/themes/neo4j.com/assets/images/neo4j-logo.svg)
 
-AWS            ████████    Intermediate
-Azure          ███████     Working Knowledge
-Power BI       ██████████  Expert
-Tableau        ████████    Intermediate
-Looker         ██████      Basic
-SAS Visual Analytics ██████ Basic
-SSRS           ███████     Working Knowledge
+---
 
-SSIS           ████████    Intermediate
-Informatica    ███████     Working Knowledge
-Alteryx        ████████    Intermediate
-dbt            ███████     Working Knowledge
-Apache Airflow ███████     Working Knowledge
-API Automation ████████    Intermediate
+### Cloud Platforms & Services:  
+![AWS](https://cdn.simpleicons.org/amazonaws) (S3, Redshift, EC2, Lambda, SageMaker)  
+![Azure](https://cdn.simpleicons.org/microsoftazure) (Databricks, ML Pipelines)
 
-Docker         ███████     Working Knowledge
-Kubernetes     ██████      Basic
-Git            ██████████  Expert
-GitHub         ██████████  Expert
+---
 
-GPT-4          ██████      Basic
-Generative AI  ██████      Basic
-VectorDB (Weaviate) ████   Beginner
-Power BI Copilot ██████    Basic
- 
+### Visualization & BI Tools:  
+![Power BI](https://cdn.simpleicons.org/powerbi) (Row-Level Security, Smart Narratives)  
+![Tableau](https://cdn.simpleicons.org/tableau) ![Looker](https://cdn.simpleicons.org/googlecloud)  
+![SAS Visual Analytics](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SAS_Logo.svg/1024px-SAS_Logo.svg.png) ![SSRS](https://upload.wikimedia.org/wikipedia/commons/8/81/SQL_Server_Reporting_Services_Logo.svg)
+
+---
+
+### ETL & Workflow Automation:  
+![SSIS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SQL_Server_Integration_Services_logo.svg/1024px-SQL_Server_Integration_Services_logo.svg.png) ![Informatica](https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Informatica_Logo.svg/2560px-Informatica_Logo.svg.png) ![Alteryx](https://cdn.simpleicons.org/alteryx) ![dbt](https://upload.wikimedia.org/wikipedia/commons/e/e6/DBT_logo.svg) ![Apache Airflow](https://cdn.simpleicons.org/apacheairflow) ![API](https://cdn-icons-png.flaticon.com/512/919/919841.png) (API Automation)
+
+---
+
+### Containerization, Orchestration & Version Control:  
+![Docker](https://cdn.simpleicons.org/docker) ![Kubernetes](https://cdn.simpleicons.org/kubernetes) ![Git](https://cdn.simpleicons.org/git) ![GitHub](https://cdn.simpleicons.org/github)
+
+---
+
+### Emerging AI/ML Tools:  
+![GPT-4](https://cdn-icons-png.flaticon.com/512/1183/1183824.png) (AI)  
+![Generative AI](https://upload.wikimedia.org/wikipedia/commons/6/6a/OpenAI_Logo.svg)  
+![Vector DB](https://upload.wikimedia.org/wikipedia/commons/4/4b/Weaviate_logo.png) (Weaviate)  
+![Power BI Copilot](https://cdn.simpleicons.org/powerbi)
+
 
 ---
 
