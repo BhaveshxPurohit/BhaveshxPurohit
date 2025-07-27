@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Bhavesh+Purohit!;Data+%26+BI+Analyst+with+4+Years+Experience;From+Raw+Data+to+Real+Impact+%F0%9F%9A%80;Designing+AI-Powered+Power+BI+Dashboards;Transforming+Complex+Data+into+Strategic+Insights;Driving+Automation+%26+Scalable+Analytics+Solutions;Enabling+Data-Driven+Decisions+Across+Enterprises" />
 </p>
 
----
 
 ## 🚀 Key Projects
 
