@@ -4,33 +4,6 @@
 
 ---
 
-## 👋 About Me
-
-Hi, I’m Bhavesh – a data and BI analyst with 4.5+ years of industry and academic experience driving insights and automation across fintech, edtech, automotive, and retail. From building ML models and ETL workflows to designing dashboards and data warehouses, I help transform messy data into measurable results.
-
-🚀 I’m passionate about creating scalable analytics solutions that enable smarter decisions. Most recently, I helped PNC save $2M in provisioning costs and CLAB AI secure a $500K research grant with data-driven storytelling.
-
-⚙️ **Core Tech Stack:** SQL, Python, Power BI, Snowflake, dbt, Excel, AWS, Azure  
-📍Actively seeking full-time Data Analyst or Analytics Engineer roles – open to remote/hybrid across the U.S.
-
----
-
-## 💼 Experience Snapshot
-
-### 💳 PNC Financial Services | *Data Analyst*  
-*Jan 2025 – Jun 2025, PA, USA*  
-
-### 🧑‍🎓 CLAB AI | *Data Analytics Engineer*  
-*Jun 2024 – Dec 2024, TN, USA*    
-
-### 🔧 KPIT Technologies | *Data Analyst*  
-*Sep 2020 – May 2023, Mumbai, India*  
-
-### 🔧 KPIT Technologies | *Data Analyst Intern*    
-*Jun 2020 – Aug 2020, Thane, India*  
-
----
-
 ## 🚀 Key Projects
 
 - [🏥 ICU Optimization with Snowflake + Power BI](https://github.com/BhaveshxPurohit/Optimizing-ICU-Management-with-Data-Warehousing) – ML readmission model with 92% R² on 150K+ records  
