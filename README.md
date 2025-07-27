@@ -13,19 +13,47 @@
 
 ## ⚙️ Tech Stack
 
-### 🧠 Programming & Analytics  
-Python • SQL • R • SAS • STATA • DAX • VBA  
+Python         ██████████  Expert
+R              █████████   Advanced
+SQL            ██████████  Expert
+SAS            ████████    Intermediate
+DAX            █████████   Advanced
+PySpark        ███████     Working Knowledge
+Scikit-learn   ████████    Intermediate
+Pandas         ██████████  Expert
+NumPy          ██████████  Expert
 
-### 📊 BI & Visualization  
-Power BI • Tableau • Looker Studio • Excel • Cognos • SAP BO • SSRS  
+SQL Server     █████████   Advanced
+MySQL          ████████    Intermediate
+SAP HANA       ███████     Working Knowledge
+Snowflake      ████████    Intermediate
+Neo4j          ██████      Basic
 
-### 🔄 ETL & Data Engineering  
-dbt • Alteryx • SSIS • Informatica • API Integration • Airflow  
-Snowflake • Redshift • Azure Synapse • Databricks • Apache Spark  
+AWS            ████████    Intermediate
+Azure          ███████     Working Knowledge
+Power BI       ██████████  Expert
+Tableau        ████████    Intermediate
+Looker         ██████      Basic
+SAS Visual Analytics ██████ Basic
+SSRS           ███████     Working Knowledge
 
-### ☁️ Cloud & DevOps  
-AWS (Lambda, EC2, S3, Glue) • Azure (ADF, DevOps) • Docker  
-Git • Jira • Confluence • ServiceNow  
+SSIS           ████████    Intermediate
+Informatica    ███████     Working Knowledge
+Alteryx        ████████    Intermediate
+dbt            ███████     Working Knowledge
+Apache Airflow ███████     Working Knowledge
+API Automation ████████    Intermediate
+
+Docker         ███████     Working Knowledge
+Kubernetes     ██████      Basic
+Git            ██████████  Expert
+GitHub         ██████████  Expert
+
+GPT-4          ██████      Basic
+Generative AI  ██████      Basic
+VectorDB (Weaviate) ████   Beginner
+Power BI Copilot ██████    Basic
+ 
 
 ---
 
