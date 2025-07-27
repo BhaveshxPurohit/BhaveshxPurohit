@@ -13,25 +13,53 @@
 
 ## ⚙️ Tech Stack
 ### Programming & ML Libraries  
-![Python](https://cdn.simpleicons.org/python)![R](https://cdn.simpleicons.org/r)![SQL](https://cdn.simpleicons.org/mysql)![SAS](https://cdn.simpleicons.org/sas)![DAX](https://cdn.simpleicons.org/microsoftpowerbi)![PySpark](https://cdn.simpleicons.org/apache)![Scikit-learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)![Pandas](https://pandas.pydata.org/static/img/pandas_mark.svg)![NumPy](https://numpy.org/images/logo.svg)
+<img src="https://cdn.simpleicons.org/python" alt="Python" height="24" /> , 
+<img src="https://cdn.simpleicons.org/r" alt="R" height="24" /> , 
+<img src="https://cdn.simpleicons.org/mysql" alt="SQL" height="24" /> , 
+<img src="https://cdn.simpleicons.org/sas" alt="SAS" height="24" /> , 
+<img src="https://cdn.simpleicons.org/microsoftpowerbi" alt="DAX" height="24" /> , 
+<img src="https://cdn.simpleicons.org/apache" alt="PySpark" height="24" /> , 
+<img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-learn" height="24" /> , 
+<img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" height="24" /> , 
+<img src="https://numpy.org/images/logo.svg" alt="NumPy" height="24" />
 
 ### Data Storage & Databases  
-![SQL Server](https://cdn.simpleicons.org/microsoftsqlserver)![MySQL](https://cdn.simpleicons.org/mysql)![SAP HANA](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png)![Snowflake](https://cdn.simpleicons.org/snowflake)![Neo4j](https://neo4j.com/wp-content/themes/neo4j.com/assets/images/neo4j-logo.svg)
+<img src="https://cdn.simpleicons.org/microsoftsqlserver" alt="SQL Server" height="24" /> , 
+<img src="https://cdn.simpleicons.org/mysql" alt="MySQL" height="24" /> , 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/SAP_2011_logo.svg/1280px-SAP_2011_logo.svg.png" alt="SAP HANA" height="24" /> , 
+<img src="https://cdn.simpleicons.org/snowflake" alt="Snowflake" height="24" /> , 
+<img src="https://neo4j.com/wp-content/themes/neo4j.com/assets/images/neo4j-logo.svg" alt="Neo4j" height="24" />
 
 ### Cloud Platforms & Services  
-![AWS](https://cdn.simpleicons.org/amazonaws)![Azure](https://cdn.simpleicons.org/microsoftazure)
+<img src="https://cdn.simpleicons.org/amazonaws" alt="AWS" height="24" /> , 
+<img src="https://cdn.simpleicons.org/microsoftazure" alt="Azure" height="24" />
 
 ### Visualization & BI Tools  
-![Power BI](https://cdn.simpleicons.org/powerbi)![Tableau](https://cdn.simpleicons.org/tableau)![Looker](https://cdn.simpleicons.org/googlecloud)![SAS](https://cdn.simpleicons.org/sas)![SSRS](https://upload.wikimedia.org/wikipedia/commons/8/81/SQL_Server_Reporting_Services_Logo.svg)
+<img src="https://cdn.simpleicons.org/powerbi" alt="Power BI" height="24" /> , 
+<img src="https://cdn.simpleicons.org/tableau" alt="Tableau" height="24" /> , 
+<img src="https://cdn.simpleicons.org/googlecloud" alt="Looker" height="24" /> , 
+<img src="https://cdn.simpleicons.org/sas" alt="SAS" height="24" /> , 
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/SQL_Server_Reporting_Services_Logo.svg" alt="SSRS" height="24" />
 
 ### ETL & Workflow Automation  
-![SSIS](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SQL_Server_Integration_Services_logo.svg/1024px-SQL_Server_Integration_Services_logo.svg.png)![Informatica](https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Informatica_Logo.svg/2560px-Informatica_Logo.svg.png)![Alteryx](https://cdn.simpleicons.org/alteryx)![dbt](https://upload.wikimedia.org/wikipedia/commons/e/e6/DBT_logo.svg)![Apache Airflow](https://cdn.simpleicons.org/apacheairflow)![API](https://cdn-icons-png.flaticon.com/512/919/919841.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/SQL_Server_Integration_Services_logo.svg/1024px-SQL_Server_Integration_Services_logo.svg.png" alt="SSIS" height="24" /> , 
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Informatica_Logo.svg/2560px-Informatica_Logo.svg.png" alt="Informatica" height="24" /> , 
+<img src="https://cdn.simpleicons.org/alteryx" alt="Alteryx" height="24" /> , 
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/DBT_logo.svg" alt="dbt" height="24" /> , 
+<img src="https://cdn.simpleicons.org/apacheairflow" alt="Apache Airflow" height="24" /> , 
+<img src="https://cdn-icons-png.flaticon.com/512/919/919841.png" alt="API Automation" height="24" />
 
 ### Containerization & Version Control  
-![Docker](https://cdn.simpleicons.org/docker)![Kubernetes](https://cdn.simpleicons.org/kubernetes)![Git](https://cdn.simpleicons.org/git)![GitHub](https://cdn.simpleicons.org/github)
+<img src="https://cdn.simpleicons.org/docker" alt="Docker" height="24" /> , 
+<img src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" height="24" /> , 
+<img src="https://cdn.simpleicons.org/git" alt="Git" height="24" /> , 
+<img src="https://cdn.simpleicons.org/github" alt="GitHub" height="24" />
 
 ### Emerging AI/ML Tools  
-![GPT-4](https://cdn-icons-png.flaticon.com/512/1183/1183824.png)![OpenAI](https://upload.wikimedia.org/wikipedia/commons/6/6a/OpenAI_Logo.svg)![Weaviate](https://upload.wikimedia.org/wikipedia/commons/4/4b/Weaviate_logo.png)![Power BI](https://cdn.simpleicons.org/powerbi)
+<img src="https://cdn-icons-png.flaticon.com/512/1183/1183824.png" alt="GPT-4" height="24" /> , 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/OpenAI_Logo.svg" alt="OpenAI" height="24" /> , 
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Weaviate_logo.png" alt="Weaviate" height="24" /> , 
+<img src="https://cdn.simpleicons.org/powerbi" alt="Power BI Copilot" height="24" />
 
 ---
 
