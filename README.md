@@ -1,39 +1,30 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Bhavesh+Purohit!;Data+%26+BI+Analyst+with+4+Years+Experience;From+Raw+Data+to+Real+Impact+%F0%9F%9A%80;Designing+AI-Powered+Power+BI+Dashboards;Transforming+Complex+Data+into+Strategic+Insights;Driving+Automation+%26+Scalable+Analytics+Solutions;Enabling+Data-Driven+Decisions+Across+Enterprises" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Bhavesh+Purohit!;Software+Engineer+%7C+Full-Stack+Developer;Building+Scalable+%26+Secure+Web+Applications;Designing+High-Performance+APIs+%26+Cloud+Solutions;Optimizing+Systems+for+Speed+%26+Reliability;Driving+DevOps+Automation+%26+CI/CD+Pipelines;Turning+Code+Into+Impactful+User+Experiences" />
 </p>
-
-
-## 🚀 Key Projects
-
-- [🏥 ICU Optimization with Snowflake + Power BI](https://github.com/BhaveshxPurohit/Optimizing-ICU-Management-with-Data-Warehousing) – ML readmission model with 92% R² on 150K+ records  
-- [📈 Stock Data ELT Pipeline](https://github.com/BhaveshxPurohit/Cloud-Based-ELT-for-Stock-Data-Management-using-Python) – Azure + Alteryx + Power BI integration for 10Y trends  
-- [🌇 Urban Heat AI Challenge (EY)](https://github.com/BhaveshxPurohit/Cooling-Urban-Heat-Islands) – 79% R² model using TensorFlow & geospatial data  
 
 ---
 ### CORE COMPETENCIES
-🐍 Programming & ML: Python | R | SQL | SAS | DAX | PySpark | Scikit-learn | Pandas | NumPy
+💻 Programming: Python | Java | JavaScript | TypeScript | C++ | SQL | NoSQL  
 
-🗄️ Databases: SQL Server | MySQL | SAP HANA | Snowflake | Neo4j (Graph DB)
+🗄️ Databases: MySQL | PostgreSQL | MongoDB | Oracle | SQL Server  
 
-☁️ Cloud & Services: AWS (S3, Redshift, EC2, Lambda, SageMaker) | Azure (Databricks, ML Pipelines)
+☁️ Cloud & Platforms: AWS (EC2, S3, Lambda, EKS, CloudWatch) | GCP (GKE, BigQuery) | Azure  
 
-📊 Visualization & BI: Power BI (Row-Level Security, Smart Narratives) | Tableau | Looker | SAS Visual Analytics | SSRS
+⚙️ Frameworks & Tools: Django | Flask | React.js | Next.js | Node.js | Express.js | Spring Boot  
 
-🔄 ETL & Automation: SSIS | Informatica PowerCenter | Alteryx | dbt | Apache Airflow | API Automation
+🚀 DevOps & CI/CD: Docker | Kubernetes | Jenkins | GitHub/GitLab CI | Terraform | Kafka  
 
-📦 Containers & VCS: Docker | Kubernetes | Git | GitHub
-
-🤖 AI/ML Tools: GPT-4 | Generative AI Frameworks | Vector DBs (Weaviate) | Power BI Copilot AI
+🧪 Testing & Automation: PyTest | Jest | Mockito | Postman | Automated Testing Pipelines  
 
 ---
 
 ## 📬 Contact
 
-📧 Email: [bhaveshpurohiit@gmail.com](mailto:bhaveshpurohiit@gmail.com)  
+📧 Email: [bhaveshhpurohit@gmail.com](mailto:bhaveshhpurohit@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/purohitbhavesh](https://www.linkedin.com/in/purohitbhavesh)  
 🌐 Portfolio: [bhaveshpurohit.com](https://www.bhaveshpurohit.com)  
 💻 GitHub: [github.com/BhaveshxPurohit](https://github.com/BhaveshxPurohit)
 
 ---
 
-_"From raw CSVs to compliance dashboards, I translate data into decisions that move the needle."_  
+_"From scalable APIs to cloud-native microservices, I engineer software that delivers performance, security, and real-world impact."_  
