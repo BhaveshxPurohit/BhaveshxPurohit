@@ -52,33 +52,6 @@ I love solving complex engineering challenges — whether it’s optimizing API 
 
 ---
 
-## 📂 Featured Projects  
-
-🔹 [**FinFlow**](https://github.com/BhaveshxPurohit/finflow) – A cloud-native financial data platform integrating APIs and analytics for real-time decision-making.  
-🔹 [**CodeStream**](https://github.com/BhaveshxPurohit/codestream) – Real-time collaborative code editor built with React, WebSockets, and Node.js.  
-🔹 [**AutoDeploy**](https://github.com/BhaveshxPurohit/autodeploy) – Automated CI/CD orchestration tool leveraging Jenkins, Docker, and Kubernetes.  
-
-💡 *More projects available on my repositories → [Explore here](https://github.com/BhaveshxPurohit?tab=repositories)*
-
----
-
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhaveshxPurohit&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaveshxPurohit&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhaveshxPurohit&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhaveshxPurohit&theme=react-dark" alt="Activity Graph" />
-</p>
-
----
-
 ## 🏆 Achievements & Highlights  
 
 - 🚀 Built and deployed **10+ production-ready full-stack applications** across fintech and enterprise environments.  
