@@ -8,7 +8,7 @@
 
 Hi there! 👋 I’m **Bhavesh Purohit**, a passionate **Software Engineer** with hands-on experience designing and developing scalable applications, building secure backend systems, and deploying cloud-native solutions.  
 
-I love solving complex engineering challenges — whether it’s optimizing API performance, architecting microservices, automating deployments, or integrating data pipelines — and I’m driven by the idea of creating technology that delivers **real-world impact**.  
+I love solving complex engineering challenges, whether it’s optimizing API performance, architecting microservices, automating deployments, or integrating data pipelines, and I’m driven by the idea of creating technology that delivers **real-world impact**.  
 
 💡 My career goal is to keep pushing boundaries in **full-stack development, cloud computing, DevOps, and system design**, while contributing to products that millions rely on. I’m always exploring new technologies, experimenting with ideas, and learning how to build faster, smarter, and more reliable software.
 
