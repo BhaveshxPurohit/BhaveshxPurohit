@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Bhavesh+Purohit!;Software+Engineer+%7C+Full-Stack+Developer;Designing+Scalable+%26+Secure+Web+Applications;Building+Cloud-Native+Systems+%26+APIs;Driving+Automation+with+DevOps+%26+CI/CD;Turning+Code+Into+Real-World+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=0F8CFF&center=true&vCenter=true&width=800&height=60&lines=Hi+I'm+Bhavesh+Purohit!;Full-Stack+%26+Data+Engineer;Designing+Scalable+%26+Cloud-Native+Data+Systems;Building+High-Performance+ETL+Pipelines+%26+APIs;Driving+Automation+with+DevOps+%26+CI/CD;Turning+Data+%26+Code+Into+Real-World+Impact" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-Hi there! 👋 I’m **Bhavesh Purohit**, a passionate **Software Data Engineer** with hands-on experience designing and developing scalable applications, building secure backend systems, and deploying cloud-native solutions.  
+Hi there! 👋 I’m **Bhavesh Purohit**, a passionate **Full-Stack & Data Engineer** with hands-on experience in designing **scalable architectures**, developing **secure APIs**, and building **data-driven systems** that power decision-making and automation.  
 
-I love solving complex engineering challenges, whether it’s optimizing API performance, architecting microservices, automating deployments, or integrating data pipelines, and I’m driven by the idea of creating technology that delivers **real-world impact**.  
+I thrive at the intersection of **software engineering and data analytics** — architecting **ETL pipelines**, optimizing **API performance**, and deploying **cloud-native applications** that process millions of records with speed and reliability. My toolkit includes **Python, SQL, Spark, Django, React.js, Docker, Kubernetes, and AWS/GCP**, enabling me to engineer systems that are efficient, maintainable, and business-focused.  
 
-💡 My career goal is to keep pushing boundaries in **full-stack development, cloud computing, DevOps, and system design**, while contributing to products that millions rely on. I’m always exploring new technologies, experimenting with ideas, and learning how to build faster, smarter, and more reliable software.
+💡 I’m driven by the goal of transforming raw data into intelligent insights and resilient platforms. Whether it’s optimizing microservices, automating infrastructure, or scaling analytical workflows, I approach every challenge with curiosity, precision, and a desire to deliver measurable impact.  
 
 ---
 
@@ -43,21 +43,25 @@ I love solving complex engineering challenges, whether it’s optimizing API per
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 
-### 🗄️ Databases  
+### 🗄️ Databases & Analytics  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ---
 
 ## 🏆 Achievements & Highlights  
 
-- 🚀 Built and deployed **10+ production-ready full-stack applications** across fintech and enterprise environments.  
-- ☁️ Migrated containerized systems to **GCP**, improving deployment throughput by **70%**.  
-- 🔒 Delivered secure, high-performance APIs serving **250K+ authenticated sessions** monthly.  
-- 🧪 Automated testing pipelines and CI/CD workflows, increasing release reliability to **99.7% uptime**.  
+- ⚙️ Designed **end-to-end ETL workflows** on AWS Glue and Airflow, processing **10M+ financial records** daily for analytics dashboards.  
+- ☁️ Migrated legacy data services to **GCP BigQuery**, improving query performance and storage scalability across multi-terabyte datasets.  
+- 🧠 Developed **Spark-based reconciliation pipelines** to validate trade and transaction data, enhancing financial accuracy and compliance reporting.  
+- 🚀 Engineered **secure microservices** with Spring Boot and FastAPI, supporting **real-time API calls** and ensuring consistent uptime across distributed environments.  
+- 🔄 Automated CI/CD pipelines using Jenkins and Terraform, streamlining deployment frequency and eliminating manual configuration errors.  
 
 ---
 
@@ -72,5 +76,4 @@ I love solving complex engineering challenges, whether it’s optimizing API per
 
 ---
 
-⭐ _“Code is not just what I write — it’s how I solve problems, build systems, and create value.”_
-
+⭐ _“I build data and software systems that scale — turning engineering precision into real-world impact.”_
