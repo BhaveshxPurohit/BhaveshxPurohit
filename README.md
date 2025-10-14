@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me  
 
-Hi there! 👋 I’m **Bhavesh Purohit**, a passionate **Software Engineer** with hands-on experience designing and developing scalable applications, building secure backend systems, and deploying cloud-native solutions.  
+Hi there! 👋 I’m **Bhavesh Purohit**, a passionate **Software Data Engineer** with hands-on experience designing and developing scalable applications, building secure backend systems, and deploying cloud-native solutions.  
 
 I love solving complex engineering challenges, whether it’s optimizing API performance, architecting microservices, automating deployments, or integrating data pipelines, and I’m driven by the idea of creating technology that delivers **real-world impact**.  
 
