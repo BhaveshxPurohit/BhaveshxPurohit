@@ -70,6 +70,6 @@ Driven by a problem-solving mindset, I aim to build systems that are secure, eff
 
 ⭐ _“I build data and software systems that scale — turning engineering precision into real-world impact.”_
 
-
-
 ---
+
+<img src="https://komarev.com/ghpvc/?username=BhaveshxPurohit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
