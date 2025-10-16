@@ -57,7 +57,7 @@ Driven by a problem-solving mindset, I aim to build systems that are secure, eff
 
 ---
 
-
+<img src="https://komarev.com/ghpvc/?username=BhaveshxPurohit&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 ---
 
