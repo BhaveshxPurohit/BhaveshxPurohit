@@ -6,11 +6,13 @@
 
 ## 👨‍💻 About Me  
 
-Hi there! 👋 I’m **Bhavesh Purohit**, a passionate **Full-Stack & Data Engineer** with hands-on experience in designing **scalable architectures**, developing **secure APIs**, and building **data-driven systems** that power decision-making and automation.  
+I am a Full Stack Engineer specializing in designing and implementing scalable backend systems, RESTful APIs, and distributed architectures using Python, Java, and modern JavaScript frameworks. My expertise spans cloud deployment, automation, and system optimization, with a strong command of AWS, Azure, and GCP services for building resilient, high-performance applications.
 
-I thrive at the intersection of **software engineering and data analytics** — architecting **ETL pipelines**, optimizing **API performance**, and deploying **cloud-native applications** that process millions of records with speed and reliability. My toolkit includes **Python, SQL, Spark, Django, React.js, Docker, Kubernetes, and AWS/GCP**, enabling me to engineer systems that are efficient, maintainable, and business-focused.  
+I have extensive experience working with microservices, containerization (Docker, Kubernetes), and CI/CD pipelines to ensure seamless integration, deployment, and continuous delivery. My background also includes designing data-driven systems leveraging PostgreSQL, MongoDB, Redis, and Snowflake, as well as implementing real-time event processing using Kafka and Celery.
 
-💡 I’m driven by the goal of transforming raw data into intelligent insights and resilient platforms. Whether it’s optimizing microservices, automating infrastructure, or scaling analytical workflows, I approach every challenge with curiosity, precision, and a desire to deliver measurable impact.  
+Beyond backend engineering, I develop interactive frontends using React, Next.js, and TypeScript — blending design precision with functional excellence. I am deeply passionate about AI-driven development, integrating tools such as LangChain, OpenAI APIs, and RAG pipelines to automate workflows, accelerate coding efficiency, and enhance decision-making.
+
+Driven by a problem-solving mindset, I aim to build systems that are secure, efficient, and maintainable, combining robust architecture with clean, testable code. I value collaborative development, enjoy mentoring peers, and continuously seek opportunities to innovate through technology and intelligent automation.
 
 ---
 
