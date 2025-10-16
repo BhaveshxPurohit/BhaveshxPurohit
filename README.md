@@ -57,10 +57,6 @@ Driven by a problem-solving mindset, I aim to build systems that are secure, eff
 
 ---
 
-## 📊 GitHub Stats & Languages  
-
-#### 📘 MindSage
-![MindSage](https://github-readme-stats.vercel.app/api/pin/?username=BhaveshxPurohit&repo=Mind-Sage&theme=tokyonight&hide_border=true)
 
 
 ---
