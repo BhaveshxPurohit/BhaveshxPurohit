@@ -57,13 +57,12 @@ Driven by a problem-solving mindset, I aim to build systems that are secure, eff
 
 ---
 
-## 🏆 Achievements & Highlights  
+## 📊 GitHub Stats & Languages  
 
-- ⚙️ Designed **end-to-end ETL workflows** on AWS Glue and Airflow, processing **10M+ financial records** daily for analytics dashboards.  
-- ☁️ Migrated legacy data services to **GCP BigQuery**, improving query performance and storage scalability across multi-terabyte datasets.  
-- 🧠 Developed **Spark-based reconciliation pipelines** to validate trade and transaction data, enhancing financial accuracy and compliance reporting.  
-- 🚀 Engineered **secure microservices** with Spring Boot and FastAPI, supporting **real-time API calls** and ensuring consistent uptime across distributed environments.  
-- 🔄 Automated CI/CD pipelines using Jenkins and Terraform, streamlining deployment frequency and eliminating manual configuration errors.  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BhaveshxPurohit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaveshxPurohit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180em" />
+</p>
 
 ---
 
