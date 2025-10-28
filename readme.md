@@ -6,13 +6,18 @@
 
 ## 👨‍💻 About Me  
 
-I am a Full Stack Engineer specializing in designing and implementing scalable backend systems, RESTful APIs, and distributed architectures using Python, Java, and modern JavaScript frameworks. My expertise spans cloud deployment, automation, and system optimization, with a strong command of AWS, Azure, and GCP services for building resilient, high-performance applications.
+👋 Hi, I'm a passionate and results-driven Software Engineer with 4 years of experience developing and deploying high-quality software solutions.
 
-I have extensive experience working with microservices, containerization (Docker, Kubernetes), and CI/CD pipelines to ensure seamless integration, deployment, and continuous delivery. My background also includes designing data-driven systems leveraging PostgreSQL, MongoDB, Redis, and Snowflake, as well as implementing real-time event processing using Kafka and Celery.
+I specialize in building scalable web applications, robust APIs, and efficient data pipelines. My background includes working across the entire Software Development Life Cycle (SDLC), from initial design and requirements gathering to deployment, testing, and continuous monitoring.
 
-Beyond backend engineering, I develop interactive frontends using React, Next.js, and TypeScript — blending design precision with functional excellence. I am deeply passionate about AI-driven development, integrating tools such as LangChain, OpenAI APIs, and RAG pipelines to automate workflows, accelerate coding efficiency, and enhance decision-making.
+My core focus areas include:
+1. Backend Development: Expertise in languages like Java, Python, and frameworks such as Spring Boot, for building efficient microservices.
+2. Cloud & DevOps: Hands-on experience with AWS/Azure/GCP, containerization (Docker), orchestration (Kubernetes), and automation using CI/CD tools (Jenkins, GitLab CI).
+3. Data & Databases: Proficient with relational (SQL) and NoSQL databases, database optimization, and implementing caching strategies (Redis).
 
-Driven by a problem-solving mindset, I aim to build systems that are secure, efficient, and maintainable, combining robust architecture with clean, testable code. I value collaborative development, enjoy mentoring peers, and continuously seek opportunities to innovate through technology and intelligent automation.
+I thrive in agile, collaborative team environments and am dedicated to writing clean, maintainable, and well-tested code. I'm always looking for ways to leverage new technology to solve complex problems and deliver tangible business value.
+
+Let's connect and discuss how modern engineering principles can drive your next big project!
 
 ---
 
